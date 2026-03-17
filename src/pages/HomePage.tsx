@@ -8,7 +8,7 @@ export function HomePage() {
   return (
     <div className="container mx-auto px-4 py-8">
       <div className="flex justify-between items-center mb-8">
-        <h1 className="text-4xl font-bold">Nostr Rap Studio</h1>
+        <h1 className="text-4xl font-bold">Rap Studio</h1>
         <LoginArea />
       </div>
 
